@@ -8,13 +8,16 @@
 
 <br/>
 
-[![Download the latest release](https://img.shields.io/badge/⬇%20%20Download%20Latest-5b78ff?style=for-the-badge&labelColor=0a0f20)](../../releases/latest)
+[![Private beta](https://img.shields.io/badge/Status-Private%20Beta-9b5cff?style=for-the-badge&labelColor=0a0f20)](https://plethoraplayer.com)
 &nbsp;
-[![Windows 10/11](https://img.shields.io/badge/Windows%2010%20%2F%2011-0a0f20?style=for-the-badge&logo=windows&logoColor=46c8ff)](../../releases/latest)
-&nbsp;
-[![Latest version](https://img.shields.io/github/v/release/KevMathews/PlethoraPlayer-Releases?style=for-the-badge&color=9b5cff&labelColor=0a0f20&label=Version)](../../releases/latest)
+[![Windows 10/11](https://img.shields.io/badge/Windows%2010%20%2F%2011-0a0f20?style=for-the-badge&logo=windows&logoColor=46c8ff)](https://plethoraplayer.com)
 
 </div>
+
+---
+
+> ### 🔒 Private beta — not yet publicly available
+> Plethora Player is still in private testing. This page is for **invited testers only**. Public downloads and sign-up are coming soon at **[plethoraplayer.com](https://plethoraplayer.com)** — please don't share builds from here.
 
 ---
 
@@ -45,18 +48,6 @@
 
 ---
 
-## ⬇️ Download &amp; install
-
-Grab the latest installer from the **[Releases page →](../../releases/latest)**
-
-1. Download `Plethora-Player_x.x.x_x64-setup.exe`
-2. Run it and follow the installer
-3. Launch **Plethora Player** and add your first source
-
-> 🔄 **Auto-updates:** once installed, the app checks for new versions and updates itself — no need to come back here.
-
----
-
 ## 💻 System requirements
 
 |              |                                              |
@@ -67,12 +58,12 @@ Grab the latest installer from the **[Releases page →](../../releases/latest)*
 
 ---
 
-## 🐛 Found a bug? Have feedback?
+## 🐛 Testers: found a bug? Have feedback?
 
 Report it right inside the app — **Settings → Report a Bug** (it attaches logs &amp; your system info automatically) — or email **[bugreport@plethoraplayer.com](mailto:bugreport@plethoraplayer.com)**.
 
 ---
 
 <div align="center">
-<sub>This repository hosts the public release downloads only. © Plethora Player · <a href="https://plethoraplayer.com">plethoraplayer.com</a></sub>
+<sub>© Plethora Player · <a href="https://plethoraplayer.com">plethoraplayer.com</a></sub>
 </div>
