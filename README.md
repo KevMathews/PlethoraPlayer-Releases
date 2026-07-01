@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/logo.gif" width="200" alt="Plethora Player" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo.gif" />
+  <img src="assets/logo-transparent.png" width="200" alt="Plethora Player" />
+</picture>
 
 # Plethora Player
 
@@ -101,6 +104,7 @@ Built on **Rust + Tauri** with hardware-accelerated **mpv (Direct3D 11)** video 
 
 ## 📥 Download &amp; install
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
@@ -125,10 +129,13 @@ Windows 10 / 11 · 64-bit · ~94 MB
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 ## 💎 Free vs Premium
+
+<div align="center">
 
 | | Free | Premium |
 |---|:---:|:---:|
@@ -140,6 +147,8 @@ Windows 10 / 11 · 64-bit · ~94 MB
 | Record live TV | — | ✅ |
 | Pause &amp; rewind live TV | — | ✅ |
 | Devices per account | — | Up to 5 |
+
+</div>
 
 Start free, then unlock everything at **[plethoraplayer.com](https://plethoraplayer.com/pricing)** — a free trial is available.
 
@@ -154,11 +163,15 @@ Start free, then unlock everything at **[plethoraplayer.com](https://plethorapla
 
 ## 💻 System requirements
 
+<div align="center">
+
 | | |
 | --- | --- |
 | **OS** | Windows 10 / 11 (64-bit) |
 | **Graphics** | Any Direct3D 11–capable GPU |
 | **Memory** | 4 GB RAM minimum · 8 GB+ recommended |
+
+</div>
 
 ---
 
@@ -169,10 +182,6 @@ Found a bug or have an idea? Report it right inside the app — **Settings → R
 ---
 
 <div align="center">
-
-<img src="assets/shots/themes.webp" width="70%" alt="Plethora Player themes" />
-
-<br/><br/>
 
 <sub>© 2026 Plethora Player · <a href="https://plethoraplayer.com">plethoraplayer.com</a><br/>
 Not affiliated with, endorsed by, or associated with any IPTV service or content provider. Plethora Player does not provide or supply any channels, streams, or subscriptions.</sub>
