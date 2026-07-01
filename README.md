@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo.gif" />
-  <img src="assets/logo-transparent.png" width="200" alt="Plethora Player" />
-</picture>
+<img src="assets/logo-transparent.png" width="200" alt="Plethora Player" />
 
 # Plethora Player
 
